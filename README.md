@@ -1,6 +1,8 @@
 # Windturbines
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=code-JOA&style=flat-square)
+
 
 
 
@@ -42,6 +44,7 @@ Current signal
 # Sustainability Against Air pollution as seen below 
 
 ![Repo List](./images/turbines.jpg)
+
 
 
 
