@@ -5,7 +5,7 @@
 #Windturbine visualisations and prediction of faulty turbines
 
 Summary map:
-![Repo List](images/image1.png)
+![Repo List](images/wt.jpg)
 
 
 # <a id='7'>Increase the life-span by taking care of these factors</a>
