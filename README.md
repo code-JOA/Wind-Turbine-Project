@@ -49,9 +49,13 @@ Current signal
 ![Repo List](./images/turbines.jpg)
 
 
+
+```python
+
+
 ## 🌟 Stargazers over time
 
-
+![![Stargazers over time](https://chart.yhype.me/github/repository-star/v1/MDEwOlJlcG9zaXRvcnkyNzg5Mjk4Njc=.svg)](https://yhype.me?utm_source=github&utm_medium=antonkomarev-github-profile-views-counter&ut$
 
 [Anton Komarev]: https://komarev.com
 [GitHub, Inc]: https://github.com
@@ -62,9 +66,10 @@ Current signal
 [GitHub Camo service]: https://github.blog/2010-11-13-sidejack-prevention-phase-3-ssl-proxied-assets/
 [Ÿ HŸPE]: https://yhype.me
 
+](https://yhype.me?utm_source=github&utm_medium=antonkomarev-github-profile-views-counter&ut$
 
 
-
+```
 
 
 
