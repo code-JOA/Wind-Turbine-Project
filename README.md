@@ -12,11 +12,11 @@ Summary map:
 
 Map figures:
 
-![Repo List](./images/wt1.png)
+![Repo List](./images/wt1.jpg)
 
 
 
-![Repo List](images/wt1.png)
+![Repo List](images/wt1.jpg)
 
 
 
