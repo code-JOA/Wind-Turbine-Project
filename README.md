@@ -1,7 +1,7 @@
 # Windturbines
 
 
-![Project Views](https://komarev.com/ghpvc/?username=code-JOA/Wind-Turbine-Project&style=flat-square)
+![Project Views](https://komarev.com/ghpvc/?username=code-JOA&style=flat-square&color=green)
 
 
 
