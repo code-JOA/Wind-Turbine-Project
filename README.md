@@ -1,6 +1,13 @@
 # Windturbines
 
-Windturbine visualisations and prediction of faulty turbines
+
+
+#Windturbine visualisations and prediction of faulty turbines
+
+
+![Repo List](images/wt1.png)
+
+
 
 # Type of Signals
 
