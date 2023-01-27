@@ -143,9 +143,7 @@ scenario.
 
 ```
 
-```python
-![Repo List](./images/severity.png)
-```
+![Repo List](../images/severity_score.png)
 
 ```python
 
