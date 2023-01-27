@@ -1,9 +1,5 @@
-# Windturbines
+# Windturbines - Yaw Misalignment & Alert Severity
 
-
-
-<!-- ![Project Views](https://komarev.com/ghpvc/?username=code-JOA&color=green)
- -->
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=code-JOA.visitor-badge)
