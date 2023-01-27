@@ -148,18 +148,19 @@ scenario.
 
 
 
-Fig. 6: The misalignment severity scoring function is a separate curve for each rank but when yaw_group_rank 
-        is considered as the third dimension, we end up with a single, 3D function 
+Fig. 6: The misalignment severity scoring function is a separate curve for each rank but
+
+when yaw_group_rank is considered as the third dimension, we end up with a single, 3D function 
 
 
-```python
-
-```
 
 # Conclusion
 
 
-# Sustainability Against Air pollution as seen below 
+The novel scoring function was used to rank all the wind farms as well as the individual wind turbine models in each farm. The function produced highly accurate rankings that can be used for prioritising turbine maintenance endeavours thus significantly reducing labour cost as well as financial losses due to sub-optimal power generation. Our solution is scalable, light weight and produces accurate results within seconds. And all of this was achieved without using any Machine Learning. It is not always the case that fancy models will do the trick. Sometimes creativity is all you need.
+
+
+# Wind TurbineSustainability Against Air pollution as seen below 
 
 ![Repo List](./images/turbines.jpg)
 
