@@ -139,14 +139,9 @@ For a rank of 1, the misalignment severity score should increase as we move from
 most of the time in the 1st group is ideal while spending most of the time in the 15th group is the worst possible
 scenario.
 
-```python
 
-```
+![Repo List](./images/Sc.png)
 
-```python
-![Repo List](./images/turbi)
-
-```
 
 ```python
 
