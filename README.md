@@ -127,9 +127,10 @@ These two are the least optimal scenarios because in either cases, power output 
 
 ![Repo List](./images/sc1-15.png)
 
-```python
 
-```
+Fig. 5: The misalignment severity scoring function for each rank 
+
+
 
 # Defining the Misalignment Scoring Function
 In order to determine whether a turbine is misaligned or not, we can use the variables yaw_group and 
@@ -146,11 +147,10 @@ scenario.
 ![Repo List](./images/Sc.png)
 
 
-```python
-Fig. 5: The misalignment severity scoring function is a separate curve for each rank but when yaw_group_rank is considered as the third dimension, we end up with a single, 3D function (visualized at the end of the gif).
 
+Fig. 6: The misalignment severity scoring function is a separate curve for each rank but when yaw_group_rank 
+        is considered as the third dimension, we end up with a single, 3D function 
 
-```
 
 ```python
 
@@ -170,3 +170,7 @@ Fig. 5: The misalignment severity scoring function is a separate curve for each 
 
 
 
+
+```python
+
+```
