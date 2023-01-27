@@ -45,9 +45,6 @@ Vibrational signal
 
 Current signal
 
-```python
-
-```
 
 # Pitch control of a wind turbine
 
@@ -63,13 +60,9 @@ This is known as the pitch control mechanism. As seen below, the angle of the bl
 ![Repo List](./images/turbines_and_wind.png)
 
 
-```python
 
-```
 
-```python
 
-```
 
 # Yaw control of wind turbines
 
