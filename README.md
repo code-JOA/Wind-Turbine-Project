@@ -143,7 +143,10 @@ scenario.
 
 ```
 
-![Repo List](./images/severity_score.png)
+```python
+![Repo List](./images/turbi)
+
+```
 
 ```python
 
