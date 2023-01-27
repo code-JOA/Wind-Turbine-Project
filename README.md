@@ -160,7 +160,7 @@ when yaw_group_rank is considered as the third dimension, we end up with a singl
 The novel scoring function was used to rank all the wind farms as well as the individual wind turbine models in each farm. The function produced highly accurate rankings that can be used for prioritising turbine maintenance endeavours thus significantly reducing labour cost as well as financial losses due to sub-optimal power generation. Our solution is scalable, light weight and produces accurate results within seconds. And all of this was achieved without using any Machine Learning. It is not always the case that fancy models will do the trick. Sometimes creativity is all you need.
 
 
-# Wind TurbineSustainability Against Air pollution as seen below 
+# Wind Turbine as a Solution for Sustainability Against Air pollution as seen below 
 
 ![Repo List](./images/turbines.jpg)
 
