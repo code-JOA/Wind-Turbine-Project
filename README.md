@@ -11,9 +11,9 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
 
-```python
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-```
+
+
+
 
 # <a id='7'>Windturbine visualisations and prediction of faulty turbines</a>
 
