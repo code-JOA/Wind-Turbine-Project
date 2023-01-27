@@ -71,8 +71,14 @@ This is known as the pitch control mechanism. As seen below, the angle of the bl
 
 ```
 
-2. Yaw control of wind turbines
+<!-- #region -->
+# Yaw control of wind turbines
+
+This is responsible for rotatinig the entire face of the wind turbine. When subtle changes in the blade agle (pitch an
+
+
 This functionality is responsible for rotating the entire face of the wind turbine. If subtle changes in the blade angle (pitch angle) does not help, then we have to rotate the entire turbine base to face it towards the wind in order to maximize power output. This is known as yaw control (as shown in Fig. 2).
+<!-- #endregion -->
 
 ```python
 
