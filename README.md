@@ -85,9 +85,17 @@ This is called Yaw Control. As seen below.
 
 ```
 
-```python
+# Understanding the Data
+The data comprised of multiple features though we required only the following two:
 
-```
+# Yaw Information ( Yaw Group )
+This is a continuous feature which consists of error values in terms of degrees by which the face of the wind
+turbine is misaligned with respect to the wind direction. To make lives easier these continuous values had been
+binned into 15 separate groups where 1 is the best and 15 is the worst (as shown in Fig. 3).
+
+Groups 1, 2, and 3 are considered to be good bins, that is, bins with error values within the acceptable 
+range, above which a wind turbine is said to be misaligned. Therefore, it was desirable that a wind turbine spent
+most of its time in these groups rather than the other ones.
 
 ```python
 
