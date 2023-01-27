@@ -97,9 +97,8 @@ Groups 1, 2, and 3 are considered to be good bins, that is, bins with error valu
 range, above which a wind turbine is said to be misaligned. Therefore, it was desirable that a wind turbine spent
 most of its time in these groups rather than the other ones.
 
-```python
 
-```
+![Repo List](./images/wind_direction.png)
 
 ```python
 
