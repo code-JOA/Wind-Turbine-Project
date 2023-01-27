@@ -45,6 +45,57 @@ Vibrational signal
 
 Current signal
 
+```python
+
+```
+
+# Pitch control of a wind turbine
+
+Turbines are designed to maximise power output using wind energy. It rivals the burning of fosil fuels or the building hydro dams to provide electricity. Hence, wind turbines are sustainable ways of generating electricty.
+
+In order to maximise power, wind direction has to align directly with the frontal part of the wind turbine. 
+
+However, this is not the case in real-life. In order to adjust the blades of the turbine, the blades need to be rotated using an electric motor or hydraulics) in order to pruduce maximum power. 
+
+This is known as the pitch control mechanism. As seen below, the angle of the blades with the wind direction is known as the pitch angle.
+
+
+![Repo List](./images/turbines_and_wind.png)
+
+
+```python
+
+```
+
+```python
+
+```
+
+2. Yaw control of wind turbines
+This functionality is responsible for rotating the entire face of the wind turbine. If subtle changes in the blade angle (pitch angle) does not help, then we have to rotate the entire turbine base to face it towards the wind in order to maximize power output. This is known as yaw control (as shown in Fig. 2).
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+# Conclusion
+
 
 # Sustainability Against Air pollution as seen below 
 
