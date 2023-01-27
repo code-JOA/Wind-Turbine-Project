@@ -100,7 +100,6 @@ most of its time in these groups rather than the other ones.
 
 ```
 
-```python
 # Yaw group rank
 Each yaw group had a corresponding rank in the data according to the amount of power it generated. 
 This feature is called yaw group rank and can be understood in terms of time. The ranks are from 1 to 15, with 1
@@ -117,13 +116,13 @@ Note that these two are the most optimal scenarios because in either case, power
 On the contrary, if a turbine spent most of its power generation time in the 15th group then the corresponding 
 rank would be 1. 
 
-Meaning that the power output of the turbine is so low that the worst group is relatively producing the most power. A similar effect would be observed if a turbine spent the least amount of its power generation time in the 1
-st group, that is, group 1
- would have a yaw group rank of 15
-. These two are the least optimal scenarios because in either cases, power output would be minimum.
+Meaning that the power output of the turbine is so low that the worst group is relatively producing the most power. 
+A similar effect would be observed if a turbine spent the least amount of its power generation time in the 1st 
+group, that is, group 1 would have a yaw group rank of 15.
+
+These two are the least optimal scenarios because in either cases, power output would be minimum.
 
 
-```
 
 ```python
 
