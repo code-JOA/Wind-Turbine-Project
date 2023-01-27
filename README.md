@@ -78,6 +78,37 @@ This is responsible for rotatinig the entire face of the wind turbine. When subt
 This is called Yaw Control. As seen below.
 
 
+
+![Repo List](./images/yaw_control.png)
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
+```python
+
+```
+
 ```python
 
 ```
