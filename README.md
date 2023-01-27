@@ -8,9 +8,9 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=code-JOA.visitor-badge)
 
+```python
 
-
-
+```
 
 # <a id='7'>Windturbine visualisations and prediction of faulty turbines</a>
 
