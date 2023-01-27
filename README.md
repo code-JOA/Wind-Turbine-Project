@@ -9,6 +9,9 @@
 
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
+
+
 # <a id='7'>Windturbine visualisations and prediction of faulty turbines</a>
 
 What a Wind Turbine Looks like :
