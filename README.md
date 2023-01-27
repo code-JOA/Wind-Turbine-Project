@@ -6,7 +6,7 @@
  -->
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=code-JOA)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=code-JOA.visitor-badge)
 
 
 
