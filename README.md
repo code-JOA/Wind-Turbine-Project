@@ -129,7 +129,12 @@ These two are the least optimal scenarios because in either cases, power output 
 ```
 
 ```python
+# Defining the Misalignment Scoring Function
+In order to determine whether a turbine is misaligned or not, we can use the variables yaw_group and 
+yaw_group_rank in order to come up with a scoring function that will generate real value scores denoting the severity of misalignment for every turbine. A low severity score would mean that the turbine is not misaligned while a high score would indicate the opposite. To come up with this function we can visualize its different segments separately and finally try to combine the results into one.
 
+For a rank of 1, the misalignment severity score should increase as we move from group 1 to 15 since spending 
+most of the time in the 1st group is ideal while spending most of the time in the 15th group is the worst possible scenario.
 ```
 
 ```python
