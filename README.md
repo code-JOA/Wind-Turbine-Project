@@ -124,10 +124,8 @@ These two are the least optimal scenarios because in either cases, power output 
 
 
 
-```python
-![Repo List](./images/turbines.jpg)
 
-```
+![Repo List](./images/sc1-15.png)
 
 ```python
 
