@@ -93,9 +93,8 @@ most of its time in these groups rather than the other ones.
 
 ![Repo List](./images/wind_direction.png)
 
-```python
 
-```
+### Fig. 4: Turbine top view with wind directions. Here, wind direction 1 gives the maximum output as it is directly aligned with the turbine face. Wind direction 2 gives the second-best output as it is slightly misaligned with respect to the face. Finally. wind direction 4 is the worst in terms of power generation.
 
 ```python
 
