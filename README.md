@@ -1,6 +1,6 @@
 # Windturbines - Yaw Misalignment & Alert Severity
 
-
+### Note : Some files (csv etc) have been purposely removed.  Contact josh_billion@yahoo.com for further assistance.  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=code-JOA.visitor-badge)
 
