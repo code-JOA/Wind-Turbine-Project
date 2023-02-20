@@ -148,6 +148,12 @@ Fig. 6: The misalignment severity scoring function is a separate curve for each 
 
 when yaw_group_rank is considered as the third dimension, we end up with a single, 3D function 
 
+# WindSpeed, Direction 
+![Repo List](./images/turbine.png)
+
+
+![Repo List](./images/windturbine.png)
+
 
 
 # Conclusion
